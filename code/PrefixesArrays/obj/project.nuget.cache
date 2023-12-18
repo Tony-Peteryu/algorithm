@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Cb3Q3ITVHdkqGcLcGwkgh55rKA7mvA+guNVOdmMU+hYEf9db0dVmRuQ2RTz4OPATYki/LtBjeVv3fiZ89oEAw==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\算法相关\\github\\algorithm\\code\\PrefixesArrays\\PrefixesArrays.csproj",
+  "expectedPackageFiles": [
+    "D:\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
